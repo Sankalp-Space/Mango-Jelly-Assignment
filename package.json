@@ -1,0 +1,31 @@
+{
+  "name": "mango-jelly-assignment",
+  "version": "1.0.0",
+  "description": "This is the internship assignment for Backend Developer Intern role by Mango Jelly",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sankalp-Space/Mango-Jelly-Assignment.git"
+  },
+  "author": "Sankalp Shrivastav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sankalp-Space/Mango-Jelly-Assignment/issues"
+  },
+  "homepage": "https://github.com/Sankalp-Space/Mango-Jelly-Assignment#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
